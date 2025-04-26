@@ -1,6 +1,8 @@
 import Image from "next/image"
 import Link from "next/link"
 import { Star } from "lucide-react"
+import React from 'react';
+import '../styles/globals.css';
 
 export default function Home() {
   return (
